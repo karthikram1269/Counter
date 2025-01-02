@@ -25,7 +25,7 @@ export default function App(){
             <button className = "child" onMouseLeave = {dec}>-</button>
             <button className = "child" onMouseLeave = {inc}>+</button>
             <button id = "last" className = "child" onMouseLeave = {re}>Reset</button>
-            <button className="child" onClick={inc}>Button clicked {st} times</button>
+{/*             <button className="child" onClick={inc}>Button clicked {st} times</button> */}
             </div>
         </div>
       </>
